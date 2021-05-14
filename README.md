@@ -15,3 +15,8 @@ $ npm install
 
 $ react-native run-android
 ```
+
+## Screenshot
+
+ <img src="https://tarkeshwaryadav.com.np/src/img/t6.jpeg" width="200" height="400" title="hover text" style="float:'left'">
+     <img src="https://tarkeshwaryadav.com.np/src/img/t5.jpeg" width="200" height="400" title="hover text" style="float:'left'">
